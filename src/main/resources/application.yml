@@ -1,0 +1,4 @@
+logging:
+    file:
+        name: code-challenge-logs.txt
+        path: /path/to/a/file
