@@ -22,7 +22,7 @@ http://localhost:8080/
 | Swagger  | 2.7 | API Dcoumentaion and Testing |
 | Junit, Mockito | 5 | Unit Test Cases |
 | Log4j | 2.1.3 | To maintain Logs |
-| Type Script | 2.1.3 | Client Side Language |
+| Type Script | 4.2.3 | Client Side Language |
 | Angular | 12 | Application Framework |
 | Prime Ng | 12 | UI Tool Kit |
 
