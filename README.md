@@ -75,13 +75,3 @@ Test Cases Results
 Code Coverage
 ```
 ![code-coverage](https://user-images.githubusercontent.com/53008196/121885244-91e92780-cd31-11eb-855e-a1d130bb6ab6.JPG)
-
-```sh
-Code Coverage
-```
-//  Code Coverage Screenshot
-```sh
-H2 Database 
-```
-//  H2 Database  Screenshot
-
